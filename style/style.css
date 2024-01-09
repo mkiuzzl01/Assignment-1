@@ -1,0 +1,182 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: "Merriweather", serif;
+}
+/* Share it style */
+main {
+  margin: 50px 140px 0px 140px;
+}
+.banner-1 {
+  margin: 50px 140px 50px 140px;
+  text-align: center;
+  background-image: url(/images/Banner\ Image.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+.navTitle {
+  padding: 177px 344px 0px 344px;
+  color: #ffffff;
+  font-size: 27px;
+}
+.navHeadline {
+  padding: 0px 344px 177px 344px;
+  color: #ffffff;
+  font-size: 50px;
+}
+/* this is main section related style */
+
+/* .discount-Box Related style */
+.discount-Title {
+  color: #ff0000;
+  font-size: 88px;
+  font-family: "Inter";
+  font-weight: 700;
+  margin: 50px 8px 48px 8px;
+}
+.discount-sell {
+  color: #ff0000;
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 500;
+}
+.category {
+  color: #070211;
+  font-size: 48px;
+  font-family: Inter;
+  font-weight: 700;
+  margin: 0px 196px 48px 196px;
+}
+.discount-Box {
+  text-align: center;
+}
+
+.newYearImg {
+  height: 500px;
+  width: 800px;
+}
+/* Welcome to midnight party related Style */
+.banner-2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  border-radius: 16px;
+  background-image: url(/images/Vectorrr.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.banner-Title {
+  color: white;
+  padding: 126px 126px 0px 126px;
+  font-size: 64px;
+  font-family: Merriweather;
+  font-weight: 900;
+  line-height: 88px;
+}
+.bannerDescription {
+  color: rgba(255, 255, 255, 0.8);
+  padding: 0px 126px 0px 126px;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 30px;
+}
+.banner-btn-1 {
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 48px 552px 142px 158px;
+  font-family: Inter;
+}
+.banner-img {
+  padding: 70px 140px 70px 10px;
+}
+.text-color {
+  color: red;
+}
+/* This is ifo-box related style */
+.info-box {
+  margin-top: 120px;
+  text-align: center;
+  background-color: #c5b1b1;
+  border-radius: 16px;
+  padding: 100px 380px 100px 385px;
+  line-height: 56px;
+  font-size: 32px;
+  font-family: Inter;
+}
+.banner-btn-2 {
+  background-color: #ff0000;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+/* this is items-card relatade style */
+.items-card {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.title {
+  line-height: 40px;
+}
+
+.item-img {
+  border: 10px solid #ff0000;
+  border-radius: 50%;
+  padding: 10px;
+}
+.item-card-info-1 {
+  padding: 112px 118px 12px 0px;
+  color: rgba(7, 2, 17, 0.6);
+}
+.item-card-info-2 {
+  padding: 112px 0px 12px 118px;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+/* Function Related Style */
+.function {
+  margin-top: 50px;
+  text-align: center;
+  position: relative;
+}
+.function-title {
+  font-size: 72px;
+}
+.function-description {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 32px;
+}
+.function-img {
+  display: flex;
+  padding-top: 64px;
+  justify-content: space-between;
+}
+
+.function-img-2{
+  padding-left: 94px;
+  position: relative;
+}
+
+.discount-img {
+  position: absolute;
+  right: 200px;
+  bottom: 300px;
+}
+.function-footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: auto;
+  width: 100%;
+  z-index: -1;
+}
