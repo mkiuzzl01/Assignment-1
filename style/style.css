@@ -88,11 +88,10 @@ main {
   line-height: 30px;
 }
 .banner-btn-1 {
-  padding: 10px;
   background-color: transparent;
   color: white;
   border: none;
-  padding: 48px 552px 142px 158px;
+  margin:38px 552px 100px 130px;
 }
 .banner-img {
   padding: 70px 140px 70px 10px;
